@@ -27,7 +27,7 @@ I'm a Full-Stack Web Developer with 1+ year of experience building fast, reliabl
 - **Smart Meeting Analyzer** — AI-powered meeting tool (Whisper, BART, BERT, Flask, React) *(FYP)*
 - **PHP E-Commerce App** — Full online store with cart & auth (PHP, MySQL, Bootstrap)
 - **Smart Chatbot** — NLP-based conversational bot (Python, Flask)
-- **Steganography Detection CNN** — Deep learning steganalysis classifier (PyTorch)
+
 
 ---
 
